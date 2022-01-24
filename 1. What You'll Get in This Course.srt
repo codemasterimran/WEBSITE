@@ -1,0 +1,154 @@
+0
+1
+00:00:03,580 --> 00:00:08,680
+Welcome to the complete web developer boot camp. My name is Angela.
+1
+
+2
+00:00:08,710 --> 00:00:13,060
+I'm a senior developer and the lead instructor at the App Brewery,
+2
+
+3
+00:00:13,180 --> 00:00:23,160
+London's highest-rated programming Bootcamp. To date, I taught over 120,000 students - in person and online.
+3
+
+4
+00:00:23,390 --> 00:00:30,310
+I'm so excited that I now have the privilege of being your instructor for this course. In the coming
+4
+
+5
+00:00:30,310 --> 00:00:30,950
+lessons
+5
+
+6
+00:00:31,120 --> 00:00:36,820
+you can look forward to the same curriculum as our in-person programming bootcamp.
+6
+
+7
+00:00:36,970 --> 00:00:40,160
+So it doesn't matter if you've never programmed before.
+7
+
+8
+00:00:40,510 --> 00:00:46,660
+because I'm going to start at the beginning and I'll take you step by step so that you understand every
+8
+
+9
+00:00:46,660 --> 00:00:52,540
+single line of code that we write together. We'll be covering some of the latest tools and technology
+9
+
+10
+00:00:52,780 --> 00:01:00,400
+including HTML, CSS,  Javascript, MongoDB,  Express JS ... and a whole lot more.
+10
+
+11
+00:01:00,750 --> 00:01:06,880
+As a student on this course, you're going to be saving yourself a lot of time because instead of having
+11
+
+12
+00:01:06,880 --> 00:01:15,220
+to deal with outdated or incomprehensible tutorials, you now get access to a fully up-to-date curriculum
+12
+
+13
+00:01:15,580 --> 00:01:18,860
+which is going to take you from beginner to mastery.
+13
+
+14
+00:01:19,100 --> 00:01:25,120
+You're also going to be saving yourself a lot of money because instead of having to take time off work
+14
+
+15
+00:01:25,480 --> 00:01:32,560
+or spend tens of thousands of dollars on an in-person programming bootcamp, you'll get access to exactly
+15
+
+16
+00:01:32,560 --> 00:01:39,070
+the same content, but you get to do it in your own time and on your own terms for a fraction of the
+16
+
+17
+00:01:39,070 --> 00:01:39,970
+price.
+17
+
+18
+00:01:40,270 --> 00:01:46,650
+By the end of the course, you will be fluently programming by yourself and along the way, you will have
+18
+
+19
+00:01:46,650 --> 00:01:54,880
+built over 16 fully-fledged websites and a web application ready to take on a job as a professional
+19
+
+20
+00:01:54,880 --> 00:01:59,850
+developer or to build your next tech startup.
+20
+
+21
+00:01:59,860 --> 00:02:04,870
+One of my greatest passions in life is understanding how humans learn.
+21
+
+22
+00:02:05,260 --> 00:02:14,590
+I've spent years researching programming education and applying what I found to designing bootcamp curriculums.
+22
+
+23
+00:02:14,710 --> 00:02:20,560
+I have some of the highest-rated development courses across the web but don't just take my word for
+23
+
+24
+00:02:20,560 --> 00:02:32,450
+it. Check out my past students had to say.
+24
+
+25
+00:02:33,030 --> 00:02:40,310
+This is the most comprehensive and most up to date course on full-stack web development.
+25
+
+26
+00:02:40,320 --> 00:02:46,830
+There are new modules being added constantly to make sure that you are always up to date with the latest
+26
+
+27
+00:02:46,830 --> 00:02:48,180
+technologies.
+27
+
+28
+00:02:48,200 --> 00:02:49,850
+As a student on this course
+28
+
+29
+00:02:49,860 --> 00:02:56,140
+you now have access to everything you need to learn to code and become a web developer.
+29
+
+30
+00:02:56,430 --> 00:02:58,820
+So what are you still waiting for?
+30
+
+31
+00:02:58,890 --> 00:03:01,970
+Join me on the next lesson and let's get started.
